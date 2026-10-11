@@ -36,7 +36,7 @@
   <img src="assets/ticker-dark.svg" width="100%" alt="Currently exploring: agentic systems, retrieval architectures, on-device ML, quantum-assisted privacy, backend architecture, system design, full-stack engineering"/>
 </picture>
 
-<br/>
+<br/><br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,spring,fastapi,django,nodejs,express,sklearn&theme=dark" height="38" alt="Frameworks & AI"/>
 </p>
@@ -55,8 +55,6 @@
 </p>
 
 </div>
-
-<br/>
 
 <br/>
 
