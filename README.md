@@ -471,8 +471,6 @@ Healthcare & Medicine · Pharmaceuticals · Chemistry & Chemical Sciences · Ene
 </table>
 <br>
 
-<br/>
-
 ---
 
 
@@ -504,12 +502,6 @@ Healthcare & Medicine · Pharmaceuticals · Chemistry & Chemical Sciences · Ene
   <img src="assets/coding-dark.svg" width="100%" alt="LeetCode 442, SkillRack 1500+, CodeChef 1015+, GeeksforGeeks 54+"/>
 </picture>
 
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/leetcode-light.svg"/>
-  <img src="assets/leetcode-dark.svg" width="100%" alt="LeetCode: 442 solved, contest rating 1774, peak 1778, top 9.51 percent"/>
-</picture>
 
 <br/><br/>
 
