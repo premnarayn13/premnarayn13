@@ -423,28 +423,11 @@
 </div>
 
 </details>
-
-
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"/>
   <img src="assets/divider-dark.svg" width="100%" alt=""/>
 </picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/sec-domains-light.svg"/>
-  <img src="assets/sec-domains-dark.svg" width="100%" alt="Domains I have worked in"/>
-</picture>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/cloud-light.svg"/>
-  <img src="assets/cloud-dark.svg" width="100%" alt="24 of 50 industry domains, sized by number of projects and coloured by the kind of build behind them"/>
-</picture>
-
 </div>
-
-<br/>
 
 <table width="100%">
 <tr>
