@@ -93,29 +93,10 @@
 </picture>
 
 <br/>
-
-
-
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"/>
-  <img src="assets/divider-dark.svg" width="100%" alt=""/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/sec-strength-light.svg"/>
-  <img src="assets/sec-strength-dark.svg" width="100%" alt="Where I am strongest"/>
-</picture>
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/strengths-light.svg"/>
-  <img src="assets/strengths-dark.svg" width="100%" alt="Technologies worked with by area: AI and ML 17, Backend 15, Data 13, Frontend 11, Cloud 11, Systems 7, Languages 6"/>
-</picture>
-
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/usage-light.svg"/>
