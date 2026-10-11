@@ -37,10 +37,6 @@
 </picture>
 
 <br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,js,ts&theme=dark" height="38" alt="Languages"/>
-</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,spring,fastapi,django,nodejs,express,sklearn&theme=dark" height="38" alt="Frameworks & AI"/>
 </p>
