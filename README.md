@@ -95,18 +95,6 @@
 </picture>
 
 <br/>
-</div>
-
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/usage-light.svg"/>
-  <img src="assets/usage-dark.svg" width="100%" alt="What my builds are made of"/>
-</picture>
-
-</div>
-
 
 <br/>
 
