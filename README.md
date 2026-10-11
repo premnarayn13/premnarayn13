@@ -428,7 +428,7 @@
   <img src="assets/divider-dark.svg" width="100%" alt=""/>
 </picture>
 </div>
-
+<br>
 <table width="100%">
 <tr>
 <td>
@@ -479,7 +479,7 @@ Healthcare & Medicine · Pharmaceuticals · Chemistry & Chemical Sciences · Ene
 </td>
 </tr>
 </table>
-
+<br>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"/>
   <img src="assets/divider-dark.svg" width="100%" alt=""/>
@@ -510,7 +510,7 @@ Healthcare & Medicine · Pharmaceuticals · Chemistry & Chemical Sciences · Ene
 </picture>
 
 <div align="center">
-
+<br><br/>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/coding-light.svg"/>
   <img src="assets/coding-dark.svg" width="100%" alt="LeetCode 442, SkillRack 1500+, CodeChef 1015+, GeeksforGeeks 54+"/>
