@@ -102,7 +102,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/langs-light.svg"/>
-  <img src="assets/langs-dark.svg" width="100%" alt="Core: Java and Python. Strong: C, C++, JavaScript. Working: SQL."/>
+  <img src="assets/langs-dark.svg" width="100%" alt="Core: Java and Python. Strong: C, C++, JavaScript. DataBase: SQL."/>
 </picture>
 
 <br/>
