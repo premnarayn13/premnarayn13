@@ -487,7 +487,6 @@ Healthcare & Medicine · Pharmaceuticals · Chemistry & Chemical Sciences · Ene
 </div>
 
 <br/>
-<br/>
 
 ---
 
@@ -501,13 +500,8 @@ Healthcare & Medicine · Pharmaceuticals · Chemistry & Chemical Sciences · Ene
   <source media="(prefers-color-scheme: light)" srcset="assets/coding-light.svg"/>
   <img src="assets/coding-dark.svg" width="100%" alt="LeetCode 442, SkillRack 1500+, CodeChef 1015+, GeeksforGeeks 54+"/>
 </picture>
-
-
-<br/><br/>
-
-<sub>HackerRank 5-star in Java and C · focus on DSA, algorithms, optimisation and logic</sub>
-
 </div>
+<div align="center">
 <br/>
 <details>
 <summary><b>Competitions and recognition</b></summary>
@@ -521,11 +515,9 @@ Healthcare & Medicine · Pharmaceuticals · Chemistry & Chemical Sciences · Ene
 - Finalist · All-India Coding Championship (72 of 2500)
 </details>
 
-
+</div>
 <br/>
-
 ---
-
 
 <div align="center">
 
