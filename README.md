@@ -410,14 +410,8 @@
 </div>
 
 </details>
-
-<br/>
-
----
-
 </div>
 <br>
-### Domains I Have Worked In
 
 <table width="100%">
 <tr>
@@ -512,7 +506,7 @@ Healthcare & Medicine · Pharmaceuticals · Chemistry & Chemical Sciences · Ene
 - Runner-up · GenAI Hackathon (IBM and SmartBridge) 2025 · AI-Datathon 2025 · Qubitron 2025 (Coimbatore Institute of Technology)
 - Best Coding Performer · CodeLee 2025 (intra-college)
 - Winner · Creatation (intra-college) · Runner-up · Thiran 2.0 and Technova 2025 (intra-college)
-- Finalist · All-India Coding Championship (72 of 2500)
+- Finalist · All-India Coding Championship</div> (72 of 2500)
 </details>
 
 </div>
