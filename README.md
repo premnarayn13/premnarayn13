@@ -14,21 +14,6 @@
 </div>
 
 ```text
-██████╗ ██████╗ ███████╗███╗   ███╗
-██╔══██╗██╔══██╗██╔════╝████╗ ████║
-██████╔╝██████╔╝█████╗  ██╔████╔██║
-██╔═══╝ ██╔══██╗██╔══╝  ██║╚██╔╝██║
-██║     ██║  ██║███████╗██║ ╚═╝ ██║
-╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝
-
-███╗   ██╗ █████╗ ██████╗  █████╗ ██╗   ██╗███╗   ██╗
-████╗  ██║██╔══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝████╗  ██║
-██╔██╗ ██║███████║██████╔╝███████║ ╚████╔╝ ██╔██╗ ██║
-██║╚██╗██║██╔══██║██╔══██╗██╔══██║  ╚██╔╝  ██║╚██╗██║
-██║ ╚████║██║  ██║██║  ██║██║  ██║   ██║   ██║ ╚████║
-╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═══╝
-
-
   login       : premnarayn13
   name        : Prem Narayn N L
   role        : AI Engineer · Backend Developer · Full-Stack Builder
@@ -53,10 +38,18 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,java,cpp,c,js,react,nodejs,express,fastapi,django,flask,spring,postgres,mysql,mongodb,redis,sqlite,firebase,supabase,tailwind,bootstrap,docker,git,github,githubactions,vercel,aws,gcp,sklearn,idea,vscode,eclipse&theme=light&perline=11"/>
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,js,react,nodejs,express,fastapi,django,flask,spring,postgres,mysql,mongodb,redis,sqlite,firebase,supabase,tailwind,bootstrap,docker,git,github,githubactions,vercel,aws,gcp,sklearn,idea,vscode,eclipse&theme=dark&perline=11" alt="Languages, frameworks, and developer tools"/>
-</picture>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,js,ts&theme=dark" height="38" alt="Languages"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,spring,fastapi,django,nodejs,express,sklearn&theme=dark" height="38" alt="Frameworks & AI"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,docker,aws,gcp&theme=dark" height="38" alt="Databases & Cloud"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,tailwind,vscode,idea&theme=dark" height="38" alt="DevOps & Tools"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="24" alt="Pandas"/>&nbsp;&nbsp;
@@ -150,21 +143,9 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,py,c,cpp,js&theme=light"/>
-  <img src="https://skillicons.dev/icons?i=java,py,c,cpp,js&theme=dark" height="52" alt="java, py, c, cpp, js"/>
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=premnarayn13&theme=vue"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=premnarayn13&theme=vue_dark" width="49%" alt="Top languages by repository"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=premnarayn13&theme=vue"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=premnarayn13&theme=vue_dark" width="49%" alt="Top languages by commit"/>
-</picture>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,c,cpp,js&theme=dark" height="34" alt="Core Languages"/>
+</p>
 
 </div>
 
@@ -175,238 +156,57 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/sec-layers-light.svg"/>
-  <img src="assets/sec-layers-dark.svg" width="100%" alt="Interface to platform"/>
+  <img src="assets/sec-layers-dark.svg" width="100%" alt="Engineering Focus & Core Stack"/>
 </picture>
-
-<br/>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/layer-01-light.svg"/>
-  <img src="assets/layer-01-dark.svg" width="100%" alt="Layer 01"/>
-</picture>
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 
-<p>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,js&theme=light"/>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,js&theme=dark" height="44" alt="react, tailwind, bootstrap, html, css, js"/>
-</picture>
+<h4 align="center">AI & Intelligent Systems</h4>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,sklearn&theme=dark" height="36" alt="AI Stack"/>
 </p>
 
-<p><img src="https://cdn.simpleicons.org/react/61DAFB" height="20" alt="React Native" title="React Native"/>&nbsp;<sub><b>React Native</b></sub>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/expo/8B949E" height="20" alt="Expo" title="Expo"/>&nbsp;<sub><b>Expo</b></sub>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/pwa/5A0FC8" height="20" alt="PWA" title="PWA"/>&nbsp;<sub><b>PWA</b></sub>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/android/3DDC84" height="20" alt="Android" title="Android"/>&nbsp;<sub><b>Android</b></sub></p>
+- **Core**: Python · FastAPI · Scikit-learn
+- **Frameworks**: LangChain · Hugging Face
+- **Data & Vector**: Pandas · NumPy · Qdrant · Neo4j
+- **Focus**: Agentic systems, retrieval architectures (RAG), on-device ML, semantic search & OCR
 
-<sub>Service Workers · JavaFX</sub>
+</td>
+<td width="33%" valign="top">
 
-</div>
+<h4 align="center">Backend & Systems</h4>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/flowline-light.svg"/>
-  <img src="assets/flowline-dark.svg" width="100%" alt=""/>
-</picture>
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/layer-02-light.svg"/>
-  <img src="assets/layer-02-dark.svg" width="100%" alt="Layer 02"/>
-</picture>
-
-<p>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi,django,flask,spring,nodejs,express&theme=light"/>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,spring,nodejs,express&theme=dark" height="44" alt="fastapi, django, flask, spring, nodejs, express"/>
-</picture>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,docker&theme=dark" height="36" alt="Backend Stack"/>
 </p>
 
-<p><img src="https://cdn.simpleicons.org/springsecurity/6DB33F" height="20" alt="Spring Security" title="Spring Security"/>&nbsp;<sub><b>Spring Security</b></sub>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/jsonwebtokens/D63AFF" height="20" alt="JWT" title="JWT"/>&nbsp;<sub><b>JWT</b></sub>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sqlalchemy/D71F00" height="20" alt="SQLAlchemy" title="SQLAlchemy"/>&nbsp;<sub><b>SQLAlchemy</b></sub></p>
+- **Core**: Java (Spring Boot) · Python (Django, FastAPI)
+- **Databases**: PostgreSQL · Redis · MySQL · SQLite
+- **DevOps**: Docker · AWS · GCP · GitHub Actions
+- **Focus**: Layered microservices, REST APIs, async task workers, secure auth & quantum privacy
 
-<sub>REST · microservices · OAuth · Django REST Framework · Hibernate/JPA</sub>
+</td>
+<td width="33%" valign="top">
 
-</div>
+<h4 align="center">Full-Stack & Platforms</h4>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/flowline-light.svg"/>
-  <img src="assets/flowline-dark.svg" width="100%" alt=""/>
-</picture>
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/layer-03-light.svg"/>
-  <img src="assets/layer-03-dark.svg" width="100%" alt="Layer 03"/>
-</picture>
-
-<p>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,sklearn&theme=light"/>
-  <img src="https://skillicons.dev/icons?i=py,sklearn&theme=dark" height="44" alt="py, sklearn"/>
-</picture>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,mongodb&theme=dark" height="36" alt="Full Stack"/>
 </p>
 
-<p><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="20" alt="Pandas"/>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="20" alt="NumPy"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/langchain/2D9B8F" height="20" alt="LangChain" title="LangChain"/>&nbsp;<sub><b>LangChain</b></sub>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" height="20" alt="OpenAI"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="20" alt="Hugging Face" title="Hugging Face"/>&nbsp;<sub><b>Hugging Face</b></sub>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/onnx/005CED" height="20" alt="ONNX" title="ONNX"/>&nbsp;<sub><b>ONNX</b></sub>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/spacy/09A3D5" height="20" alt="spaCy" title="spaCy"/>&nbsp;<sub><b>spaCy</b></sub>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white" height="20" alt="Groq"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/plotly/7A8AA8" height="20" alt="Plotly" title="Plotly"/>&nbsp;<sub><b>Plotly</b></sub></p>
+- **Core**: React · Node.js · Express · TypeScript / JS
+- **Styling & UI**: Tailwind CSS · Bootstrap
+- **Mobile & Web**: React Native · Expo · PWA (Service Workers)
+- **Focus**: Modern SPAs, offline-first architectures, real-time sync & cross-platform apps
 
-<sub>LLMs · RAG · embeddings · NLP · agents · LangGraph · OCR · speech</sub>
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/flowline-light.svg"/>
-  <img src="assets/flowline-dark.svg" width="100%" alt=""/>
-</picture>
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/layer-04-light.svg"/>
-  <img src="assets/layer-04-dark.svg" width="100%" alt="Layer 04"/>
-</picture>
-
-<p>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,firebase,supabase&theme=light"/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,firebase,supabase&theme=dark" height="44" alt="postgres, mysql, mongodb, redis, sqlite, firebase, supabase"/>
-</picture>
-</p>
-
-<p><img src="https://cdn.simpleicons.org/neo4j/008CC1" height="20" alt="Neo4j" title="Neo4j"/>&nbsp;<sub><b>Neo4j</b></sub>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/qdrant/DC244C" height="20" alt="Qdrant" title="Qdrant"/>&nbsp;<sub><b>Qdrant</b></sub></p>
-
-<sub>PostGIS · IndexedDB</sub>
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/flowline-light.svg"/>
-  <img src="assets/flowline-dark.svg" width="100%" alt=""/>
-</picture>
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/layer-05-light.svg"/>
-  <img src="assets/layer-05-dark.svg" width="100%" alt="Layer 05"/>
-</picture>
-
-<p>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,githubactions,vercel&theme=light"/>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,githubactions,vercel&theme=dark" height="44" alt="aws, gcp, docker, git, github, githubactions, vercel"/>
-</picture>
-</p>
-
-<p><img src="https://cdn.simpleicons.org/render/46E3B7" height="20" alt="Render" title="Render"/>&nbsp;<sub><b>Render</b></sub>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/zoho/E42527" height="20" alt="Zoho Catalyst" title="Zoho Catalyst"/>&nbsp;<sub><b>Zoho Catalyst</b></sub>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/googledrive/4285F4" height="20" alt="Google Drive" title="Google Drive"/>&nbsp;<sub><b>Google Drive</b></sub>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mega/D9272E" height="20" alt="MEGA" title="MEGA"/>&nbsp;<sub><b>MEGA</b></sub></p>
-
-<sub>CI/CD</sub>
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/flowline-light.svg"/>
-  <img src="assets/flowline-dark.svg" width="100%" alt=""/>
-</picture>
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/layer-06-light.svg"/>
-  <img src="assets/layer-06-dark.svg" width="100%" alt="Layer 06"/>
-</picture>
-
-<p>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,c&theme=light"/>
-  <img src="https://skillicons.dev/icons?i=cpp,c&theme=dark" height="44" alt="cpp, c"/>
-</picture>
-</p>
-
-<p><img src="https://cdn.simpleicons.org/celery/37814A" height="20" alt="Celery" title="Celery"/>&nbsp;<sub><b>Celery</b></sub>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/openstreetmap/7EBC6F" height="20" alt="OpenStreetMap" title="OpenStreetMap"/>&nbsp;<sub><b>OpenStreetMap</b></sub></p>
-
-<sub>Kalman filter · ESKF · HMM map matching · GNSS/IMU · QDK · QRNG · BQC · AES-GCM</sub>
-
-</div>
-
-
-<div align="center">
-
-<sub>Tools</sub>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=idea,vscode,eclipse&theme=light"/>
-  <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse&theme=dark" height="40" alt="idea, vscode, eclipse"/>
-</picture>
-
-<p><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" height="22" alt="Power BI"/></p>
-
-<sub>MySQL Workbench</sub>
-
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"/>
-  <img src="assets/divider-dark.svg" width="100%" alt=""/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/sec-explore-light.svg"/>
-  <img src="assets/sec-explore-dark.svg" width="100%" alt="What I explore"/>
-</picture>
-
-<div align="center">
-
-<br/>
-
-**Exploring AI**
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,sklearn&theme=light"/>
-  <img src="https://skillicons.dev/icons?i=py,sklearn&theme=dark" height="46" alt="py, sklearn"/>
-</picture>
-
-<p><img src="https://cdn.simpleicons.org/pandas/150458" height="20" alt="Pandas" title="Pandas"/>&nbsp;<sub><b>Pandas</b></sub>&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/numpy/013243" height="20" alt="NumPy" title="NumPy"/>&nbsp;<sub><b>NumPy</b></sub></p>
-
-<sub>agents · retrieval · embeddings · on-device inference · multi-modal intake</sub>
-
-<br/>
-
-**Exploring software development**
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=spring,java,django,fastapi,postgres,redis,docker&theme=light"/>
-  <img src="https://skillicons.dev/icons?i=spring,java,django,fastapi,postgres,redis,docker&theme=dark" height="46" alt="spring, java, django, fastapi, postgres, redis, docker"/>
-</picture>
-
-<sub>layered services · authentication · local-first sync · async workers · graph and relational data</sub>
-
-<br/>
-
-**Exploring full-stack engineering**
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,vercel,supabase&theme=light"/>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,vercel,supabase&theme=dark" height="46" alt="react, nodejs, express, mongodb, tailwind, vercel, supabase"/>
-</picture>
-
-<sub>MERN · React with FastAPI · React with Spring · PWAs · React Native</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -665,6 +465,10 @@
 
 <br/>
 
+<table width="100%">
+<tr>
+<td>
+
 | Project | Core Domain & Focus | Type | Themes |
 |:---|:---|:---:|:---:|
 | **Legal Query AI** | Legal & Justice · AI Retrieval · Academia | AI-first | `4` |
@@ -707,6 +511,10 @@
 Healthcare & Medicine · Pharmaceuticals · Chemistry & Chemical Sciences · Energy & Power · Electrical & Electronics · Mechanical & Manufacturing · Civil Engineering & Construction · Architecture & Urban Planning · Aerospace & Space · Earth & Geological Sciences · Robotics & Autonomous Systems · Semiconductors & Advanced Materials · Defence & National Security · Archaeology & Cultural Heritage · History, Literature & Humanities · Psychology & Human Behaviour · Finance, Banking & Insurance · Economics & Policy · Media, Journalism & Communication · Arts, Design & Entertainment · Sports & Fitness · Tourism & Hospitality · Real Estate & Property · Mining & Natural Resources · Fashion & Textiles · Religion, Philosophy & Ethics
 
 </details>
+
+</td>
+</tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"/>
