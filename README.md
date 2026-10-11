@@ -489,7 +489,7 @@ Healthcare & Medicine · Pharmaceuticals · Chemistry & Chemical Sciences · Ene
 
 
 <div align="center">
-<br><br/>
+<br>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/coding-light.svg"/>
   <img src="assets/coding-dark.svg" width="100%" alt="LeetCode 442, SkillRack 1500+, CodeChef 1015+, GeeksforGeeks 54+"/>
@@ -520,14 +520,12 @@ Healthcare & Medicine · Pharmaceuticals · Chemistry & Chemical Sciences · Ene
   <img src="https://streak-stats.demolab.com?user=premnarayn13&background=FFFFFF&border=D0D7DE&ring=1A7F37&fire=E8590C&currStreakLabel=1A7F37&currStreakNum=1F2328&sideLabels=1A7F37&sideNums=1F2328&dates=59636E" width="70%" alt="Contribution streak"/>
 </picture>
 
-<br/><br/>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/closing-light.svg"/>
   <img src="assets/closing-dark.svg" width="100%" alt="Let us build something intelligent."/>
 </picture>
-
-<br/>
 
 <a href="https://www.linkedin.com/in/prem-narayn-n-l-86097b327">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:naraynpremnl1304@gmail.com">Email</a> &nbsp;·&nbsp; <a href="https://github.com/premnarayn13">GitHub</a>
 
