@@ -528,46 +528,7 @@ Healthcare & Medicine · Pharmaceuticals · Chemistry & Chemical Sciences · Ene
 <sub>HackerRank 5-star in Java and C · focus on DSA, algorithms, optimisation and logic</sub>
 
 </div>
-
-
 <br/>
-
----
-
-
-### Experience & Education
-
-
-<div align="center">
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=spring,react,postgres,java&theme=light"/>
-  <img src="https://skillicons.dev/icons?i=spring,react,postgres,java&theme=dark" height="42" alt="spring, react, postgres, java"/>
-</picture>
-
-**Infosys Springboard Virtual Internship 7.0** · ongoing · Spring Boot, React, PostgreSQL, Spring Security, Hibernate/JPA, JDBC
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,aws,githubactions&theme=light"/>
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,aws,githubactions&theme=dark" height="42" alt="mongodb, express, react, nodejs, aws, githubactions"/>
-</picture>
-
-**MERN Internship** · 15 days on campus · host Better Tomorrow · deployed an in-house product
-
-<br/>
-
-**Co-Lead, Data Science, Google Developer Groups SECE** · shortlisted after four interview rounds · organised 5+ events
-
-**B.Tech Artificial Intelligence & Data Science** · Sri Eshwar College of Engineering · 2024–2028 · CGPA 8.6
-
-<sub>DSA using C & C++ (Udemy) · Introduction to Gen AI (IBM SkillsBuild) · Java Foundation (Oracle) · Java Bootcamp (Udemy) · Practical SQL with SQLite (Udemy) · Python for Data Science (Udemy)</sub>
-
-</div>
-
 <details>
 <summary><b>Competitions and recognition</b></summary>
 <br/>
