@@ -62,10 +62,12 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/sec-heat-light.svg"/>
-  <img src="assets/sec-heat-dark.svg" width="100%" alt="Contribution heatmap"/>
-</picture>
+<br/>
+
+---
+
+### Contribution Heatmap
+
 
 <div align="center">
 
@@ -105,15 +107,14 @@
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"/>
-  <img src="assets/divider-dark.svg" width="100%" alt=""/>
-</picture>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/sec-lang-light.svg"/>
-  <img src="assets/sec-lang-dark.svg" width="100%" alt="Languages I write best"/>
-</picture>
+<br/>
+
+---
+
+
+### Languages I Write Best
+
 
 <div align="center">
 
@@ -130,15 +131,14 @@
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"/>
-  <img src="assets/divider-dark.svg" width="100%" alt=""/>
-</picture>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/sec-layers-light.svg"/>
-  <img src="assets/sec-layers-dark.svg" width="100%" alt="Engineering Focus & Core Stack"/>
-</picture>
+<br/>
+
+---
+
+
+### Engineering Focus & Core Stack
+
 
 <div align="center">
 
@@ -191,15 +191,14 @@
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"/>
-  <img src="assets/divider-dark.svg" width="100%" alt=""/>
-</picture>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/sec-projects-light.svg"/>
-  <img src="assets/sec-projects-dark.svg" width="100%" alt="What I have built"/>
-</picture>
+<br/>
+
+---
+
+
+### What I Have Built
+
 
 <div align="center">
 
@@ -423,12 +422,15 @@
 </div>
 
 </details>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"/>
-  <img src="assets/divider-dark.svg" width="100%" alt=""/>
-</picture>
+
+<br/>
+
+---
+
 </div>
 <br>
+### Domains I Have Worked In
+
 <table width="100%">
 <tr>
 <td>
@@ -480,15 +482,14 @@ Healthcare & Medicine · Pharmaceuticals · Chemistry & Chemical Sciences · Ene
 </tr>
 </table>
 <br>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"/>
-  <img src="assets/divider-dark.svg" width="100%" alt=""/>
-</picture>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/sec-research-light.svg"/>
-  <img src="assets/sec-research-dark.svg" width="100%" alt="Research lab"/>
-</picture>
+<br/>
+
+---
+
+
+### Research Focus
+
 
 <div align="center">
 
@@ -499,15 +500,14 @@ Healthcare & Medicine · Pharmaceuticals · Chemistry & Chemical Sciences · Ene
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"/>
-  <img src="assets/divider-dark.svg" width="100%" alt=""/>
-</picture>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/sec-coding-light.svg"/>
-  <img src="assets/sec-coding-dark.svg" width="100%" alt="Problem solving"/>
-</picture>
+<br/>
+
+---
+
+
+### Problem Solving
+
 
 <div align="center">
 <br><br/>
@@ -529,15 +529,14 @@ Healthcare & Medicine · Pharmaceuticals · Chemistry & Chemical Sciences · Ene
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"/>
-  <img src="assets/divider-dark.svg" width="100%" alt=""/>
-</picture>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/sec-journey-light.svg"/>
-  <img src="assets/sec-journey-dark.svg" width="100%" alt="Experience and education"/>
-</picture>
+<br/>
+
+---
+
+
+### Experience & Education
+
 
 <div align="center">
 
@@ -582,10 +581,11 @@ Healthcare & Medicine · Pharmaceuticals · Chemistry & Chemical Sciences · Ene
 
 </details>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"/>
-  <img src="assets/divider-dark.svg" width="100%" alt=""/>
-</picture>
+
+<br/>
+
+---
+
 
 <div align="center">
 
