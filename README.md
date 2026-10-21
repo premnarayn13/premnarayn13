@@ -1,7 +1,15 @@
 <div align="center">
 
-# Prem Narayn N L
-### AI Engineer &nbsp;·&nbsp; Backend Developer &nbsp;·&nbsp; Full-Stack Builder
+<pre>
+██████╗ ██████╗ ███████╗███╗   ███╗   ███╗   ██╗ █████╗ ██████╗  █████╗ ██╗   ██╗███╗   ██╗
+██╔══██╗██╔══██╗██╔════╝████╗ ████║   ████╗  ██║██╔══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝████╗  ██║
+██████╔╝██████╔╝█████╗  ██╔████╔██║   ██╔██╗ ██║███████║██████╔╝███████║ ╚████╔╝ ██╔██╗ ██║
+██╔═══╝ ██╔══██╗██╔══╝  ██║╚██╔╝██║   ██║╚██╗██║██╔══██║██╔══██╗██╔══██║  ╚██╔╝  ██║╚██╗██║
+██║     ██║  ██║███████╗██║ ╚═╝ ██║   ██║ ╚████║██║  ██║██║  ██║██║  ██║   ██║   ██║ ╚████║
+╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝   ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═══╝
+</pre>
+
+<h3>AI Engineer &nbsp;·&nbsp; Backend Developer &nbsp;·&nbsp; Full-Stack Builder</h3>
 
 <p align="center">
   <em>Building systems that turn complex problems into practical software.</em>
@@ -64,7 +72,7 @@
 
 ---
 
-### Contribution Heatmap
+## Contribution Heatmap
 
 
 <div align="center">
@@ -99,14 +107,14 @@
 ---
 
 
-### Languages I Write Best
+## Languages I Write Best
 
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/langs-light.svg"/>
-  <img src="assets/langs-dark.svg" width="100%" alt="Core: Java and Python. Strong: C, C++, JavaScript. DataBase: SQL."/>
+  <img src="assets/langs-dark.svg" width="100%" alt="Core: Java and Python. Strong: C, C++, JavaScript. Database: SQL."/>
 </picture>
 
 <br/>
@@ -123,7 +131,7 @@
 ---
 
 
-### Engineering Focus & Core Stack
+## Engineering Focus & Core Stack
 
 
 <div align="center">
@@ -132,7 +140,7 @@
 <tr>
 <td width="33%" valign="top">
 
-<h4 align="center">AI & Intelligent Systems</h4>
+<p align="center"><b>AI & Intelligent Systems</b></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,fastapi,sklearn&theme=dark" height="36" alt="AI Stack"/>
@@ -146,7 +154,7 @@
 </td>
 <td width="33%" valign="top">
 
-<h4 align="center">Backend & Systems</h4>
+<p align="center"><b>Backend & Systems</b></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,docker&theme=dark" height="36" alt="Backend Stack"/>
@@ -160,7 +168,7 @@
 </td>
 <td width="33%" valign="top">
 
-<h4 align="center">Full-Stack & Platforms</h4>
+<p align="center"><b>Full-Stack & Platforms</b></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,mongodb&theme=dark" height="36" alt="Full Stack"/>
@@ -183,7 +191,7 @@
 ---
 
 
-### What I Have Built
+## What I Have Built
 
 
 <div align="center">
@@ -411,6 +419,12 @@
 </div>
 <br>
 
+## Domains I Have Worked In
+
+<p align="center">
+  <b>24 Industry Domains Across All Builds</b>
+</p>
+
 <table width="100%" align="center">
 <tr>
 <td>
@@ -466,7 +480,7 @@ Healthcare & Medicine · Pharmaceuticals · Chemistry & Chemical Sciences · Ene
 ---
 
 
-### Problem Solving
+## Problem Solving
 
 
 <div align="center">
@@ -480,13 +494,22 @@ Healthcare & Medicine · Pharmaceuticals · Chemistry & Chemical Sciences · Ene
 <br/>
 ---
 
+## Let's Connect & Collaborate
+
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/closing-light.svg"/>
-  <img src="assets/closing-dark.svg" width="100%" alt="Let us build something intelligent."/>
+  <img src="assets/closing-dark.svg" width="100%" alt="Aspiring software developer excellent in technologies, open to collaborate and explore new tech"/>
 </picture>
 
-<a href="https://www.linkedin.com/in/prem-narayn-n-l-86097b327">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:naraynpremnl1304@gmail.com">Email</a> &nbsp;·&nbsp; <a href="https://github.com/premnarayn13">GitHub</a>
+<br/><br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prem-narayn-n-l-86097b327"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="mailto:naraynpremnl1304@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/premnarayn13"><img src="https://img.shields.io/badge/GitHub-Collaborate-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub"/></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/PremNaraynNL/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="28" alt="LeetCode"/></a>
+</p>
 
 </div>
