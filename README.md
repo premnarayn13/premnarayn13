@@ -1,13 +1,17 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg"/>
-  <img src="assets/hero-dark.svg" width="100%" alt="Prem Narayn N L, AI engineer, backend developer, full-stack builder"/>
-</picture>
+# Prem Narayn N L
+### AI Engineer &nbsp;·&nbsp; Backend Developer &nbsp;·&nbsp; Full-Stack Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B6FE8&center=true&vCenter=true&width=720&height=46&lines=Exploring+AI;Exploring+Software+Development;Exploring+Full-Stack+Engineering;Building+systems+that+solve+real+problems" alt="Exploring AI, software development and full-stack engineering"/>
+<p align="center">
+  <em>Building systems that turn complex problems into practical software.</em>
+</p>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=8B6FE8&center=true&vCenter=true&width=720&height=46&lines=Exploring+AI;Exploring+Software+Development;Exploring+Full-Stack+Engineering;Building+systems+that+solve+real+problems" alt="Exploring AI, software development and full-stack engineering"/>
+
+<p align="center">
+  <sub><b>B.Tech AI & Data Science</b> &nbsp;·&nbsp; Sri Eshwar College of Engineering &nbsp;·&nbsp; 2024–2028</sub>
+</p>
 
 <a href="https://www.linkedin.com/in/prem-narayn-n-l-86097b327">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:naraynpremnl1304@gmail.com">Email</a> &nbsp;·&nbsp; <a href="https://github.com/premnarayn13?tab=repositories">Repositories</a> &nbsp;·&nbsp; <a href="https://leetcode.com/u/PremNaraynNL/">LeetCode</a> &nbsp;·&nbsp; <a href="https://www.codechef.com/users/prem_narayn">CodeChef</a>
 
