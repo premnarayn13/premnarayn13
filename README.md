@@ -462,23 +462,6 @@ Healthcare & Medicine · Pharmaceuticals · Chemistry & Chemical Sciences · Ene
 ---
 
 
-### Research Focus
-
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/research-light.svg"/>
-  <img src="assets/research-dark.svg" width="100%" alt="Research: quantum-assisted privacy (under review), IBET-Net, Strayner, CPU scheduling package"/>
-</picture>
-
-</div>
-
-<br/>
-
----
-
-
 ### Problem Solving
 
 
@@ -489,32 +472,11 @@ Healthcare & Medicine · Pharmaceuticals · Chemistry & Chemical Sciences · Ene
   <img src="assets/coding-dark.svg" width="100%" alt="LeetCode 442, SkillRack 1500+, CodeChef 1015+, GeeksforGeeks 54+"/>
 </picture>
 </div>
-<div align="center">
-<br/>
-<details>
-<summary><b>Competitions and recognition</b></summary>
-<br/>
 
-- Winner · Hack-Sprint 2026 (Google Developer Groups, Google tools challenge) · Winner · AgentVerse 2026
-- Pre-finalist · Google BigCode 2026 (top 1500 among 11 lakh candidates)
-- Runner-up · GenAI Hackathon (IBM and SmartBridge) 2025 · AI-Datathon 2025 · Qubitron 2025 (Coimbatore Institute of Technology)
-- Best Coding Performer · CodeLee 2025 (intra-college)
-- Winner · Creatation (intra-college) · Runner-up · Thiran 2.0 and Technova 2025 (intra-college)
-- Finalist · All-India Coding Championship</div> 
-</details>
-
-</div>
 <br/>
 ---
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=premnarayn13&background=0D1117&border=30363D&ring=3FB950&fire=FB923C&currStreakLabel=3FB950&currStreakNum=E6EDF3&sideLabels=3FB950&sideNums=E6EDF3&dates=8B949E"/>
-  <img src="https://streak-stats.demolab.com?user=premnarayn13&background=FFFFFF&border=D0D7DE&ring=1A7F37&fire=E8590C&currStreakLabel=1A7F37&currStreakNum=1F2328&sideLabels=1A7F37&sideNums=1F2328&dates=59636E" width="70%" alt="Contribution streak"/>
-</picture>
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/closing-light.svg"/>
