@@ -108,14 +108,14 @@
 
 ### 📊 Architecture & Tech Stack Distribution
 
-```mermaid
-pie title Architecture & Core Tech Stack Distribution
-    "Backend & Microservices (Java Spring Boot · FastAPI · Django)" : 35
-    "AI & Intelligent Systems (Python · LangChain · Qdrant · RAG)" : 30
-    "Full-Stack Platforms (React · React Native · Expo · PWA)" : 15
-    "Systems & Sensor Fusion (C / C++ · ESKF Inertial Engine)" : 10
-    "Databases & Cloud (PostgreSQL · Redis · Docker · AWS)" : 10
-```
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/tech-chart-light.svg"/>
+  <img src="assets/tech-chart-dark.svg" width="100%" alt="Architecture & Tech Stack Distribution"/>
+</picture>
+
+</div>
 
 <br/>
 
@@ -124,32 +124,47 @@ pie title Architecture & Core Tech Stack Distribution
 <table width="100%">
 <tr>
 <td width="20%" valign="top">
-  <h4>Java</h4>
-  <p><code>Core · Production</code></p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" height="30" alt="Java"/>
+  </p>
+  <h4 align="center">Java</h4>
+  <p align="center"><code>Core · Production</code></p>
   <p>386 LeetCode<br/>300+ SkillRack<br/>5-Star HackerRank</p>
   <sub>Spring Boot, Microservices, Enterprise APIs</sub>
 </td>
 <td width="20%" valign="top">
-  <h4>Python</h4>
-  <p><code>Core · AI & Data</code></p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=py,fastapi&theme=dark" height="30" alt="Python"/>
+  </p>
+  <h4 align="center">Python</h4>
+  <p align="center"><code>Core · AI & Data</code></p>
   <p>5 Major Builds<br/>AI & RAG Pipelines<br/>Scientific Computing</p>
   <sub>FastAPI, Django, LangChain, Qdrant, Pandas</sub>
 </td>
 <td width="20%" valign="top">
-  <h4>C / C++</h4>
-  <p><code>Strong · Systems</code></p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" height="30" alt="C / C++"/>
+  </p>
+  <h4 align="center">C / C++</h4>
+  <p align="center"><code>Strong · Systems</code></p>
   <p>900+ SkillRack<br/>Inertial ESKF<br/>Sensor Fusion</p>
   <sub>Dead Reckoning, State Estimation, DSA</sub>
 </td>
 <td width="20%" valign="top">
-  <h4>JavaScript / TS</h4>
-  <p><code>Strong · Full-Stack</code></p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" height="30" alt="JavaScript / TypeScript"/>
+  </p>
+  <h4 align="center">JavaScript / TS</h4>
+  <p align="center"><code>Strong · Full-Stack</code></p>
   <p>9 Major Builds<br/>Offline-First PWA<br/>Cross-Platform</p>
   <sub>React, React Native, Node.js, Express, Tailwind</sub>
 </td>
 <td width="20%" valign="top">
-  <h4>SQL</h4>
-  <p><code>Database · Storage</code></p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" height="30" alt="SQL & Databases"/>
+  </p>
+  <h4 align="center">SQL</h4>
+  <p align="center"><code>Database · Storage</code></p>
   <p>PostgreSQL<br/>MySQL & SQLite<br/>PostGIS Spatial</p>
   <sub>Schema Design, Indexing, Vector Search</sub>
 </td>
