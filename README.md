@@ -110,15 +110,30 @@
 
 > *Writing reliable, scalable software with strong algorithmic fundamentals in Java and Python, paired with modern distributed backends, AI pipelines, and responsive platforms.*
 
-### Core Languages & Competencies
+### 📊 Code Volume & Practice Distribution
 
-| Language | Proficiency Tier | Engineering Focus & Ecosystem | Highlights |
+```mermaid
+pie title Engineering Focus & Practice Distribution
+    "Java (Spring Boot, Multithreading, 386 LeetCode)" : 38
+    "Python (FastAPI, AI/ML Pipelines, 5 Builds)" : 32
+    "C & C++ (Inertial ESKF, 900+ Algorithms)" : 15
+    "JavaScript & TypeScript (React, Node, PWA)" : 10
+    "SQL & Databases (PostgreSQL, Vector DBs)" : 5
+```
+
+### Core Languages & Measured Competencies
+
+<div align="center">
+
+| Language | Tier | Measured Practice & Volume | Primary Ecosystem & Frameworks |
 | :--- | :---: | :--- | :--- |
-| **Java** | `Core` | Spring Boot, layered microservices, REST APIs, multithreading, enterprise backend | HackerRank 5★ · 300+ SkillRack · 3 production systems |
-| **Python** | `Core` | AI/ML pipelines, FastAPI, Django, LangChain, semantic retrieval, scientific computing | 5 end-to-end builds · Pandas, NumPy, Scikit-Learn |
-| **C / C++** | `Strong` | Inertial Dead Reckoning (ESKF), sensor fusion, algorithm design, memory management | 900+ SkillRack · INS & Sensing research |
-| **JavaScript / TypeScript** | `Strong` | React modern SPAs, Node.js / Express servers, React Native cross-platform apps | 9 full-stack builds · PWA offline-first architecture |
-| **SQL** | `Database` | PostgreSQL, MySQL, SQLite, schema design, relational indexing, query optimization | Complex joins, transaction management, ACID |
+| **Java** | `Core` | █ █ █ █ █ █ █ █ █ █ &nbsp; **386 LC** · **300+ SR** · **5★ HackerRank** | Spring Boot, Layered Microservices, Enterprise REST APIs, Multithreading |
+| **Python** | `Core` | █ █ █ █ █ █ █ █ ░ ░ &nbsp; **5 Major Builds** · **AI/ML Pipelines** | FastAPI, Django, LangChain, Qdrant, Neo4j, Pandas, NumPy |
+| **C / C++** | `Strong` | █ █ █ █ █ █ ░ ░ ░ ░ &nbsp; **900+ SR** · **INS & Sensing Research** | Error-State Kalman Filtering (ESKF), Sensor Fusion, Memory Management, DSA |
+| **JavaScript / TS** | `Strong` | █ █ █ █ █ ░ ░ ░ ░ ░ &nbsp; **9 Full-Stack Builds** · **PWA Offline** | React, React Native, Expo, Node.js, Express, Tailwind CSS, IndexedDB |
+| **SQL** | `Database` | █ █ █ █ ░ ░ ░ ░ ░ ░ &nbsp; **Schema Optimization** · **ACID** | PostgreSQL, PostGIS, MySQL, SQLite, Vector Databases (Dense Search) |
+
+</div>
 
 <br/>
 
@@ -128,7 +143,7 @@
 
 | 🧠 AI & Intelligent Systems | ⚙️ Backend & Systems Architecture | 🌐 Full-Stack & Modern Platforms |
 | :--- | :--- | :--- |
-| **Core**: Python · FastAPI · Scikit-Learn<br/>**AI Stack**: LangChain · Hugging Face · Whisper<br/>**Vector & Graph**: Qdrant · Neo4j · PostGIS<br/>**Focus**: Agentic workflows, retrieval architectures (RAG), on-device ML, semantic search & OCR | **Core**: Java (Spring Boot) · Python (Django, FastAPI)<br/>**Databases**: PostgreSQL · Redis · MySQL · SQLite<br/>**Cloud & DevOps**: Docker · AWS · GCP · GitHub Actions<br/>**Focus**: Microservices, high-throughput REST APIs, async worker queues, quantum-safe privacy | **Core**: React · Node.js · Express · TypeScript / JS<br/>**Styling & UI**: Tailwind CSS · Bootstrap<br/>**Mobile & Web**: React Native · Expo · PWA<br/>**Focus**: Modern responsive SPAs, offline-first architectures (IndexedDB, Service Workers), real-time sync |
+| <img src="https://skillicons.dev/icons?i=py,fastapi,sklearn&theme=dark" height="32" /><br/><br/>• **Core**: Python · FastAPI · Scikit-Learn<br/>• **AI Stack**: LangChain · Hugging Face · Whisper<br/>• **Vector & Graph**: Qdrant · Neo4j · PostGIS<br/>• **Key Focus**: Agentic workflows, retrieval architectures (RAG), on-device ML, semantic search & OCR | <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,docker,aws,gcp&theme=dark" height="32" /><br/><br/>• **Core**: Java (Spring Boot) · Python (Django, FastAPI)<br/>• **Databases**: PostgreSQL · Redis · MySQL · SQLite<br/>• **DevOps**: Docker · AWS · GCP · GitHub Actions<br/>• **Key Focus**: Layered microservices, high-throughput REST APIs, async task workers, quantum-safe privacy | <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,mongodb&theme=dark" height="32" /><br/><br/>• **Core**: React · Node.js · Express · TypeScript / JS<br/>• **Styling & UI**: Tailwind CSS · Bootstrap<br/>• **Mobile & Web**: React Native · Expo · PWA<br/>• **Key Focus**: Modern SPAs, offline-first architectures (IndexedDB, Service Workers), real-time sync |
 
 </div>
 
@@ -140,18 +155,30 @@
 
 > *Production-ready builds spanning AI agents, non-GNSS navigation, offline-first PWAs, and distributed platforms.*
 
-| System | Focus & Problem Solved | Core Architecture & Stack | Links |
+### 🧠 Sector 1: AI, Forensics & Intelligent Retrieval
+
+| System | Measurable Focus & Architecture | Stack & Tooling | Action |
 | :--- | :--- | :--- | :---: |
-| **Vigil-X** | Automated crime intelligence & forensic analytics platform featuring speech-to-text audio ingestion (Whisper), document OCR, and graph-based case correlation. | `Python` `FastAPI` `Django REST` `LangChain` `Neo4j` `Qdrant` `React` | [Repository](https://github.com/Nithish-1622/VigilX-BE) |
-| **IDR Navigation** | High-precision offline navigation system for GPS-denied environments, fusing IMU streams via Error-State Kalman Filtering (ESKF) with zero GNSS dependency. | `C++` `Python` `React Native` `Expo` `PostGIS` `Celery` `Redis` | [Repository](https://github.com/Nithish-1622/Dead-Reckoning-app) |
-| **FloatChat** | Conversational oceanographic intelligence assistant querying live marine telemetry from Argo floats and INCOIS datasets using geospatial RAG. | `Python` `FastAPI` `React` `PostgreSQL` `PostGIS` `Plotly` `Pandas` | [Live MVP](https://float-chat-1.vercel.app/dashboard) |
-| **DocMatrix (SDMS)** | Enterprise document archive and semantic search engine with automated dense vector embeddings, hybrid search, and cloud storage synchronization. | `Python` `FastAPI` `Supabase` `PostgreSQL` `React` `Vercel` | [Repository](https://github.com/premnarayn13/SDMS) |
-| **Legal Query AI** | Vector-similarity legal research engine that matches natural-language legal inquiries to Indian statutory provisions and judicial precedents with source attribution. | `Python` `FastAPI` `React` `Vector DB` `Tailwind CSS` `NLP` | [Demo Video](https://drive.google.com/file/d/1TU1MBdvnDPN6GPI5mcM1OnkmWmjlNktN/view) |
-| **Cooperative Collision Warning** | Real-time V2V anti-collision mitigation engine using sensor fusion, Kalman trajectory prediction, and low-latency vehicle state broadcasting. | `Android` `Java` `Kalman Filter` `GPS + IMU` `Live Maps` | [Project Folder](https://drive.google.com/drive/folders/1Szz9FBKLRX4ddshaBoKaPStrCLomWMxG?usp=drive_link) |
-| **Habit Hacker** | Offline-first, privacy-focused productivity PWA utilizing client-side IndexedDB persistence, service worker caching, and adaptive habit analytics. | `React` `Java (Spring Boot)` `PostgreSQL` `PWA` `Service Workers` | [Repository](https://github.com/premnarayn13/Habit_Hacker) |
+| **Vigil-X** | Automated crime intelligence & forensic analytics platform featuring speech-to-text audio ingestion (Whisper), document OCR, and graph-based case correlation. | `Python` `FastAPI` `Django REST` `LangChain` `Neo4j` `Qdrant` `React` | [Repository ↗](https://github.com/Nithish-1622/VigilX-BE) |
+| **FloatChat** | Conversational oceanographic intelligence assistant querying live marine telemetry from Argo floats and INCOIS datasets using geospatial RAG. | `FastAPI` `React` `PostgreSQL (PostGIS)` `Plotly` `Pandas` | [Live MVP ↗](https://float-chat-1.vercel.app/dashboard) |
+| **DocMatrix (SDMS)** | Enterprise document archive and semantic search engine with automated dense vector embeddings, hybrid search, and cloud storage synchronization. | `Python` `FastAPI` `Supabase` `PostgreSQL` `React` `Vercel` | [Repository ↗](https://github.com/premnarayn13/SDMS) |
+| **Legal Query AI** | Vector-similarity legal research engine that matches natural-language legal inquiries to Indian statutory provisions and judicial precedents with source attribution. | `Python` `FastAPI` `React` `Vector DB` `NLP` `Tailwind CSS` | [Demo Video ↗](https://drive.google.com/file/d/1TU1MBdvnDPN6GPI5mcM1OnkmWmjlNktN/view) |
+
+### ⚡ Sector 2: Systems, Sensing & Autonomous Navigation
+
+| System | Measurable Focus & Architecture | Stack & Tooling | Action |
+| :--- | :--- | :--- | :---: |
+| **IDR Navigation** | High-precision offline navigation system for GPS-denied environments, fusing IMU streams via Error-State Kalman Filtering (ESKF) with zero GNSS dependency. | `C++` `Python` `React Native` `Expo` `PostGIS` `Celery` `Redis` | [Repository ↗](https://github.com/Nithish-1622/Dead-Reckoning-app) |
+| **Cooperative Collision Warning** | Real-time V2V anti-collision mitigation engine using sensor fusion, Kalman trajectory prediction, and low-latency vehicle state broadcasting. | `Android` `Java` `Kalman Filter` `GPS + IMU` `Live Maps` | [Project Folder ↗](https://drive.google.com/drive/folders/1Szz9FBKLRX4ddshaBoKaPStrCLomWMxG?usp=drive_link) |
+
+### 🌐 Sector 3: Full-Stack Products & Cloud Platforms
+
+| System | Measurable Focus & Architecture | Stack & Tooling | Action |
+| :--- | :--- | :--- | :---: |
+| **Habit Hacker** | Offline-first, privacy-focused productivity PWA utilizing client-side IndexedDB persistence, service worker caching, and adaptive habit analytics. | `React` `Java (Spring Boot)` `PostgreSQL` `PWA` `IndexedDB` | [Repository ↗](https://github.com/premnarayn13/Habit_Hacker) |
+| **TaskRise** | Cloud collaborative task management platform featuring real-time drag-and-drop Kanban boards, team workspaces, activity logging, and sprint metrics. | `MongoDB` `Express.js` `React` `Node.js` `Tailwind CSS` | [Live MVP ↗](https://taskrise-v1.vercel.app/) |
+| **Women SHG E-Commerce** | Multi-tenant marketplace built to empower rural Women Self-Help Groups with digital storefronts, inventory tracking, and transparent settlement pipelines. | `MongoDB` `Express.js` `React` `Node.js` `Tailwind CSS` | [Repository ↗](https://github.com/premnarayn13/WomenSelfHelpGroup-based_Ecom-Platform) |
 | **FarmVerse** | Agricultural decision-support platform featuring automated seasonal budgeting, crop yield projections, and soil-matched planning via LLM inference. | `Java (Spring Boot)` `React` `PostgreSQL` `Hibernate` `Groq LLM` | *On Request* |
-| **Women SHG E-Commerce** | Multi-tenant marketplace built to empower rural Women Self-Help Groups with digital storefronts, inventory tracking, and transparent settlement pipelines. | `MongoDB` `Express.js` `React` `Node.js` `Tailwind CSS` | [Repository](https://github.com/premnarayn13/WomenSelfHelpGroup-based_Ecom-Platform) |
-| **TaskRise** | Cloud collaborative task management platform featuring real-time drag-and-drop Kanban boards, team workspaces, activity logging, and sprint metrics. | `MongoDB` `Express.js` `React` `Node.js` `Tailwind CSS` | [Live MVP](https://taskrise-v1.vercel.app/) |
 
 <br/>
 
@@ -161,9 +188,18 @@
 
 > *Demonstrated real-world implementation across **24 distinct industry domains** through 11 purpose-built engineering projects.*
 
+```mermaid
+pie title 24 Industry Domains Across 11 Systems
+    "AI, Forensics & Legal Tech" : 30
+    "Autonomous Sensing & Navigation" : 25
+    "Enterprise & Productivity Cloud" : 20
+    "Marine & Oceanographic Data" : 15
+    "Agritech & Life Sciences" : 10
+```
+
 <div align="center">
 
-| Core Domain | Projects | Engineering Relevance |
+| Core Domain | Covered Systems | Practical Engineering Highlights |
 | :--- | :--- | :--- |
 | **AI, Law & Forensics** | Legal Query AI, Vigil-X | Dense vector retrieval, Indian case law semantic search, OCR & speech-to-text forensic graphs |
 | **Navigation & Geospatial** | IDR, FloatChat, Collision Prevention | Inertial Dead Reckoning (ESKF), PostGIS spatial queries, Argo oceanographic float telemetry |
@@ -204,14 +240,26 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/coding-light.svg"/>
-  <img src="assets/coding-dark.svg" width="100%" alt="LeetCode 442, SkillRack 1500+, CodeChef 1015+, GeeksforGeeks 54+"/>
+  <img src="assets/coding-dark.svg" width="100%" alt="LeetCode 467, SkillRack 1500+, CodeChef 1015+, GeeksforGeeks 54+"/>
 </picture>
+
+<br/><br/>
+
+| 🏆 Contest Rating | 🎖️ Global Rank | 🧩 Total Solved | ⚡ Year Submissions | 🔥 Max Streak |
+| :---: | :---: | :---: | :---: | :---: |
+| **1,917** *(Knight)* | **Top 4.24%** *(#36,778)* | **467 / 4,115** *(245 Easy · 206 Med · 16 Hard)* | **1,235 Submissions** *(329 Active Days)* | **137 Days** |
 
 <br/>
 
-<a href="https://leetcode.com/u/PremNaraynNL/"><b>LeetCode Profile (442+ Solved · Peak 1,778 · Top 9.5%)</b></a> &nbsp;·&nbsp;
-<a href="https://www.codechef.com/users/prem_narayn"><b>CodeChef (1015+ · Rating 1300+)</b></a> &nbsp;·&nbsp;
-<a href="https://github.com/premnarayn13?tab=repositories"><b>GitHub Repositories</b></a>
+<a href="https://leetcode.com/u/PremNaraynNL/">
+  <img src="https://img.shields.io/badge/LeetCode-PremNaraynNL-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="32" alt="LeetCode Profile"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/prem_narayn">
+  <img src="https://img.shields.io/badge/CodeChef-1015+_Solved-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="32" alt="CodeChef Profile"/>
+</a>&nbsp;&nbsp;
+<a href="https://github.com/premnarayn13?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-11_Repositories-238636?style=for-the-badge&logo=github&logoColor=white" height="32" alt="GitHub Repos"/>
+</a>
 
 </div>
 
@@ -221,34 +269,38 @@
 
 ## 🤝 Let's Connect & Collaborate
 
-> **🟢 Open for Engineering Collaborations & Opportunities**
+<div align="center">
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATION-238636?style=for-the-badge&logo=githubsponsors&logoColor=white" height="34" alt="Open to Collaboration"/>
+</p>
+
+> **Aspiring Software Developer & AI Systems Engineer**
 >
-> Aspiring Software Developer & AI Systems Engineer with proven competence across full-stack systems, algorithmic problem solving, and intelligent architectures. Actively exploring emerging technologies, agentic workflows, and distributed systems.
+> Proven competence across full-stack systems, algorithmic problem solving (LeetCode Knight, 1,917 Rating), and intelligent architectures. Actively exploring emerging technologies, agentic workflows, and distributed systems.
 >
 > *Always excited to team up on high-impact software, open-source initiatives, hackathons, and innovative engineering challenges.*
 
 <br/>
 
-<div align="center">
-
 | 🎯 Primary Focus | 🚀 Exploring Frontier Tech | 🤝 Collaboration Modes |
 | :--- | :--- | :--- |
-| Scalable Backend Architecture<br/>Intelligent RAG & Agentic Systems<br/>Offline-First Modern Web & Mobile | Quantum-Resistant Privacy Protocols<br/>On-Device Neural Inference<br/>Autonomous Agent Swarms | Full-Stack & AI Engineering Roles<br/>Open-Source Project Contributions<br/>Hackathons & Research Builds |
+| **Scalable Backend Systems**<br/>Microservices, REST APIs, high-throughput architectures in Java & Python | **Quantum-Resistant Protocols**<br/>SCADA privacy, on-device neural inference, autonomous agent swarms | **Full-Stack & AI Roles**<br/>Open-source contributions, high-impact hackathons & research builds |
 
 <br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prem-narayn-n-l-86097b327">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-238636?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:naraynpremnl1304@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_in_Touch-238636?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="34" alt="Email"/>
   </a>&nbsp;&nbsp;
   <a href="https://github.com/premnarayn13">
-    <img src="https://img.shields.io/badge/GitHub-Follow-238636?style=for-the-badge&logo=github&logoColor=white" height="32" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow_&_Star-238636?style=for-the-badge&logo=github&logoColor=white" height="34" alt="GitHub"/>
   </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/u/PremNaraynNL/">
-    <img src="https://img.shields.io/badge/LeetCode-Rankings-238636?style=for-the-badge&logo=leetcode&logoColor=white" height="32" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-Solve_Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="34" alt="LeetCode"/>
   </a>
 </p>
 
