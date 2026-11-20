@@ -16,9 +16,7 @@
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=238636&center=true&vCenter=true&width=720&height=46&lines=Exploring+AI;Exploring+Software+Development;Exploring+Full-Stack+Engineering;Building+systems+that+solve+real+problems" alt="Exploring AI, software development and full-stack engineering"/>
-
-<br/><br/>
-
+<br/>
 <a href="https://www.linkedin.com/in/prem-narayn-n-l-86097b327">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:naraynpremnl1304@gmail.com">Email</a> &nbsp;·&nbsp; <a href="https://github.com/premnarayn13?tab=repositories">Repositories</a> &nbsp;·&nbsp; <a href="https://leetcode.com/u/PremNaraynNL/">LeetCode</a> &nbsp;·&nbsp; <a href="https://www.codechef.com/users/prem_narayn">CodeChef</a>
 
 </div>
@@ -104,11 +102,39 @@
 
 ---
 
-## Technical Architecture & Core Stack
+## 🛠️ Technical Architecture & Core Stack
 
 > *Writing reliable, scalable software with strong algorithmic fundamentals in Java and Python, paired with modern distributed backends, AI pipelines, and responsive platforms.*
 
-### Core Languages & Measured Volume
+### 🏗️ Architecture & Component Flow
+
+```mermaid
+flowchart LR
+    subgraph Client["Frontend & Edge Platforms"]
+        C1["React SPAs"]
+        C2["React Native & Expo"]
+        C3["Offline-First PWAs"]
+    end
+
+    subgraph Backend["Core Systems & Services"]
+        B1["Java / Spring Boot Microservices"]
+        B2["FastAPI & Django REST APIs"]
+        B3["C++ ESKF Inertial Engine"]
+    end
+
+    subgraph DataAI["Data & Intelligent Layers"]
+        D1[("PostgreSQL & PostGIS")]
+        D2[("Redis & Celery Queues")]
+        D3[("LangChain & Qdrant Vector DB")]
+    end
+
+    Client --> Backend
+    Backend --> DataAI
+```
+
+<br/>
+
+### 💻 Core Languages & Measured Volume
 
 <table width="100%">
 <tr>
@@ -147,7 +173,7 @@
 
 <br/>
 
-### Specialized Engineering Domains
+### ⚙️ Specialized Engineering Domains
 
 <table width="100%">
 <tr>
@@ -155,33 +181,33 @@
   <p align="center">
     <img src="https://skillicons.dev/icons?i=py,fastapi,sklearn&theme=dark" height="34" alt="AI Stack"/>
   </p>
-  <h4 align="center">AI & Intelligent Systems</h4>
+  <h4 align="center">🧠 AI & Intelligent Systems</h4>
   <ul>
     <li><b>Frameworks:</b> LangChain, Hugging Face, Whisper</li>
     <li><b>Vector & Graph:</b> Qdrant, Neo4j, PostGIS</li>
-    <li><b>Focus:</b> Agentic workflows, retrieval architectures (RAG), on-device ML, semantic search and OCR</li>
+    <li><b>Key Focus:</b> Agentic workflows, retrieval architectures (RAG), on-device ML, semantic search and OCR</li>
   </ul>
 </td>
 <td width="33%" valign="top">
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,docker,aws&theme=dark" height="34" alt="Backend Stack"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,docker,aws,gcp&theme=dark" height="34" alt="Backend Stack"/>
   </p>
-  <h4 align="center">Backend & Systems</h4>
+  <h4 align="center">⚙️ Backend & Systems</h4>
   <ul>
     <li><b>Frameworks:</b> Spring Boot, Django, FastAPI</li>
     <li><b>Databases & Cloud:</b> PostgreSQL, Redis, Docker, AWS, GCP</li>
-    <li><b>Focus:</b> Layered microservices, high-throughput REST APIs, async task workers, quantum-safe privacy</li>
+    <li><b>Key Focus:</b> Layered microservices, high-throughput REST APIs, async task workers, quantum-safe privacy</li>
   </ul>
 </td>
 <td width="33%" valign="top">
   <p align="center">
     <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,mongodb&theme=dark" height="34" alt="Full-Stack Stack"/>
   </p>
-  <h4 align="center">Full-Stack & Platforms</h4>
+  <h4 align="center">🌐 Full-Stack & Platforms</h4>
   <ul>
     <li><b>Frontend & Mobile:</b> React, React Native, Expo</li>
     <li><b>Styling & Storage:</b> Tailwind CSS, IndexedDB, MongoDB</li>
-    <li><b>Focus:</b> Modern responsive SPAs, offline-first architectures, service worker sync, mobile platforms</li>
+    <li><b>Key Focus:</b> Modern responsive SPAs, offline-first architectures, service worker sync, mobile platforms</li>
   </ul>
 </td>
 </tr>
@@ -191,11 +217,11 @@
 
 ---
 
-## Featured Engineering Builds
+## 🚀 Featured Engineering Builds
 
 > *Production-ready builds spanning AI agents, non-GNSS navigation, offline-first PWAs, and distributed platforms.*
 
-### Sector 1: AI, Forensics & Intelligent Retrieval
+### 🧠 Sector 1: AI, Forensics & Intelligent Retrieval
 
 <table width="100%">
 <tr>
@@ -230,7 +256,7 @@
 
 <br/>
 
-### Sector 2: Systems, Sensing & Autonomous Navigation
+### ⚡ Sector 2: Systems, Sensing & Autonomous Navigation
 
 <table width="100%">
 <tr>
@@ -251,7 +277,7 @@
 
 <br/>
 
-### Sector 3: Full-Stack Products & Cloud Platforms
+### 🌐 Sector 3: Full-Stack Products & Cloud Platforms
 
 <table width="100%">
 <tr>
@@ -288,41 +314,54 @@
 
 ---
 
-## Industry Domain Coverage
+## 🌐 Industry Domain Coverage
 
 > *Demonstrated implementation across 24 distinct industry domains through 11 purpose-built engineering projects.*
+
+### 🗺️ Domain Architecture Mapping
+
+```mermaid
+flowchart TD
+    Core["24 Industry Domains Across 11 Systems"]
+    Core --> D1["🧠 AI, Law & Forensics<br/><b>Vigil-X · Legal Query AI</b>"]
+    Core --> D2["🧭 Navigation & Geospatial<br/><b>IDR · FloatChat · Collision</b>"]
+    Core --> D3["🏢 Enterprise & Productivity<br/><b>DocMatrix · TaskRise</b>"]
+    Core --> D4["🌱 Agritech & Social Commerce<br/><b>FarmVerse · Women SHG Marketplace</b>"]
+```
+
+<br/>
 
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
-  <h4>AI, Law & Forensics</h4>
+  <h4>🧠 AI, Law & Forensics</h4>
   <p><b>Legal Query AI · Vigil-X</b></p>
   <sub>Dense vector retrieval, Indian case law semantic search, OCR & speech-to-text forensic correlation.</sub>
 </td>
 <td width="33%" valign="top">
-  <h4>Navigation & Geospatial</h4>
+  <h4>🧭 Navigation & Geospatial</h4>
   <p><b>IDR · FloatChat · Collision</b></p>
   <sub>Inertial Dead Reckoning (ESKF), PostGIS spatial queries, Argo oceanographic float telemetry.</sub>
 </td>
 <td width="33%" valign="top">
-  <h4>Enterprise & Productivity</h4>
+  <h4>🏢 Enterprise & Productivity</h4>
   <p><b>DocMatrix · TaskRise</b></p>
   <sub>Hybrid keyword-vector search, cloud document syncing, real-time collaborative Kanban.</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-  <h4>Cybersecurity & Systems</h4>
+  <h4>🔒 Cybersecurity & Systems</h4>
   <p><b>SCADA Quantum Privacy · Collision</b></p>
   <sub>Quantum-safe communication protocols, V2V low-latency telemetry broadcasting.</sub>
 </td>
 <td width="33%" valign="top">
-  <h4>Agritech & Life Sciences</h4>
+  <h4>🌱 Agritech & Life Sciences</h4>
   <p><b>FarmVerse · IBET-Net</b></p>
   <sub>Predictive crop yield modeling, neural bio-effect simulation, agricultural resource planning.</sub>
 </td>
 <td width="33%" valign="top">
-  <h4>Commerce & Social Solutions</h4>
+  <h4>🛍️ Commerce & Social Solutions</h4>
   <p><b>Women SHG · Habit Hacker</b></p>
   <sub>Multi-tenant rural marketplace, role-based access control, offline-first local PWA storage.</sub>
 </td>
@@ -332,7 +371,7 @@
 <br/>
 
 <details>
-<summary><b>View Complete 24-Domain Breakdown Matrix</b></summary>
+<summary><b>📊 View Complete 24-Domain Breakdown Matrix</b></summary>
 <br/>
 
 | Project | Covered Industry Verticals |
@@ -355,7 +394,7 @@
 
 ---
 
-## Algorithmic Problem Solving
+## 💡 Algorithmic Problem Solving
 
 <div align="center">
 
@@ -409,7 +448,7 @@
 
 ---
 
-## Connect & Collaborate
+## 🤝 Connect & Collaborate
 
 <div align="center">
 
@@ -426,15 +465,15 @@
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
-  <h4>Primary Focus</h4>
+  <h4>🎯 Primary Focus</h4>
   <p>Scalable backend architectures in Java & Python, high-throughput microservices, and clean REST APIs.</p>
 </td>
 <td width="33%" valign="top">
-  <h4>Frontier Technologies</h4>
+  <h4>🚀 Frontier Technologies</h4>
   <p>Agentic workflows, dense vector RAG, quantum-resistant privacy protocols, and on-device ML.</p>
 </td>
 <td width="33%" valign="top">
-  <h4>Collaboration Modes</h4>
+  <h4>🤝 Collaboration Modes</h4>
   <p>Full-stack and AI engineering roles, open-source projects, and competitive hackathon builds.</p>
 </td>
 </tr>
