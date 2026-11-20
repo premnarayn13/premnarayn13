@@ -106,30 +106,15 @@
 
 > *Writing reliable, scalable software with strong algorithmic fundamentals in Java and Python, paired with modern distributed backends, AI pipelines, and responsive platforms.*
 
-### 🏗️ Architecture & Component Flow
+### 📊 Architecture & Tech Stack Distribution
 
 ```mermaid
-flowchart LR
-    subgraph Client["Frontend & Edge Platforms"]
-        C1["React SPAs"]
-        C2["React Native & Expo"]
-        C3["Offline-First PWAs"]
-    end
-
-    subgraph Backend["Core Systems & Services"]
-        B1["Java / Spring Boot Microservices"]
-        B2["FastAPI & Django REST APIs"]
-        B3["C++ ESKF Inertial Engine"]
-    end
-
-    subgraph DataAI["Data & Intelligent Layers"]
-        D1[("PostgreSQL & PostGIS")]
-        D2[("Redis & Celery Queues")]
-        D3[("LangChain & Qdrant Vector DB")]
-    end
-
-    Client --> Backend
-    Backend --> DataAI
+pie title Architecture & Core Tech Stack Distribution
+    "Backend & Microservices (Java Spring Boot · FastAPI · Django)" : 35
+    "AI & Intelligent Systems (Python · LangChain · Qdrant · RAG)" : 30
+    "Full-Stack Platforms (React · React Native · Expo · PWA)" : 15
+    "Systems & Sensor Fusion (C / C++ · ESKF Inertial Engine)" : 10
+    "Databases & Cloud (PostgreSQL · Redis · Docker · AWS)" : 10
 ```
 
 <br/>
