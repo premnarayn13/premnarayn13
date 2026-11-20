@@ -68,7 +68,7 @@
 
 ---
 
-## Contribution Heatmap
+## 📅 Contribution Heatmap
 
 
 <div align="center">
@@ -96,11 +96,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=premnarayn13&theme=vue_dark" width="100%" alt="GitHub profile details"/>
 </picture>
 
-<br/>
+</div>
 
 <br/>
-
----
 
 ## 🛠️ Technical Architecture & Core Stack
 
@@ -127,7 +125,7 @@
   <p align="center">
     <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" height="30" alt="Java"/>
   </p>
-  <h4 align="center">Java</h4>
+  <h4 align="center">☕ Java</h4>
   <p align="center"><code>Core · Production</code></p>
   <p>386 LeetCode<br/>300+ SkillRack<br/>5-Star HackerRank</p>
   <sub>Spring Boot, Microservices, Enterprise APIs</sub>
@@ -136,7 +134,7 @@
   <p align="center">
     <img src="https://skillicons.dev/icons?i=py,fastapi&theme=dark" height="30" alt="Python"/>
   </p>
-  <h4 align="center">Python</h4>
+  <h4 align="center">🐍 Python</h4>
   <p align="center"><code>Core · AI & Data</code></p>
   <p>5 Major Builds<br/>AI & RAG Pipelines<br/>Scientific Computing</p>
   <sub>FastAPI, Django, LangChain, Qdrant, Pandas</sub>
@@ -145,7 +143,7 @@
   <p align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" height="30" alt="C / C++"/>
   </p>
-  <h4 align="center">C / C++</h4>
+  <h4 align="center">⚡ C / C++</h4>
   <p align="center"><code>Strong · Systems</code></p>
   <p>900+ SkillRack<br/>Inertial ESKF<br/>Sensor Fusion</p>
   <sub>Dead Reckoning, State Estimation, DSA</sub>
@@ -154,7 +152,7 @@
   <p align="center">
     <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" height="30" alt="JavaScript / TypeScript"/>
   </p>
-  <h4 align="center">JavaScript / TS</h4>
+  <h4 align="center">🌐 JavaScript / TS</h4>
   <p align="center"><code>Strong · Full-Stack</code></p>
   <p>9 Major Builds<br/>Offline-First PWA<br/>Cross-Platform</p>
   <sub>React, React Native, Node.js, Express, Tailwind</sub>
@@ -163,7 +161,7 @@
   <p align="center">
     <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" height="30" alt="SQL & Databases"/>
   </p>
-  <h4 align="center">SQL</h4>
+  <h4 align="center">🗄️ SQL</h4>
   <p align="center"><code>Database · Storage</code></p>
   <p>PostgreSQL<br/>MySQL & SQLite<br/>PostGIS Spatial</p>
   <sub>Schema Design, Indexing, Vector Search</sub>
@@ -226,13 +224,13 @@
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-  <h4><a href="https://github.com/Nithish-1622/VigilX-BE">Vigil-X</a> &nbsp;<code>AI & Forensics</code></h4>
+  <h4><a href="https://github.com/Nithish-1622/VigilX-BE">🛡️ Vigil-X</a> &nbsp;<code>AI & Forensics</code></h4>
   <p>Automated crime intelligence platform with speech-to-text audio ingestion (Whisper), document OCR, and graph correlation.</p>
   <p><code>FastAPI</code> · <code>Django REST</code> · <code>LangChain</code> · <code>Neo4j</code> · <code>Qdrant</code> · <code>React</code></p>
   <p><a href="https://github.com/Nithish-1622/VigilX-BE"><img src="https://img.shields.io/badge/Repository-238636?style=flat&logo=github&logoColor=white" height="20" alt="Repository"/></a></p>
 </td>
 <td width="50%" valign="top">
-  <h4><a href="https://float-chat-1.vercel.app/dashboard">FloatChat</a> &nbsp;<code>Marine Telemetry</code></h4>
+  <h4><a href="https://float-chat-1.vercel.app/dashboard">🌊 FloatChat</a> &nbsp;<code>Marine Telemetry</code></h4>
   <p>Conversational oceanographic assistant querying live telemetry from Argo floats and INCOIS datasets using geospatial RAG.</p>
   <p><code>FastAPI</code> · <code>React</code> · <code>PostgreSQL</code> · <code>PostGIS</code> · <code>Plotly</code> · <code>Pandas</code></p>
   <p><a href="https://float-chat-1.vercel.app/dashboard"><img src="https://img.shields.io/badge/Live_MVP-238636?style=flat&logo=vercel&logoColor=white" height="20" alt="Live MVP"/></a></p>
@@ -240,13 +238,13 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <h4><a href="https://github.com/premnarayn13/SDMS">DocMatrix (SDMS)</a> &nbsp;<code>Document Retrieval</code></h4>
+  <h4><a href="https://github.com/premnarayn13/SDMS">📑 DocMatrix (SDMS)</a> &nbsp;<code>Document Retrieval</code></h4>
   <p>Enterprise document archive and semantic search engine with dense vector embeddings and multi-cloud synchronization.</p>
   <p><code>FastAPI</code> · <code>Supabase</code> · <code>PostgreSQL</code> · <code>React</code> · <code>Vercel</code></p>
   <p><a href="https://github.com/premnarayn13/SDMS"><img src="https://img.shields.io/badge/Repository-238636?style=flat&logo=github&logoColor=white" height="20" alt="Repository"/></a></p>
 </td>
 <td width="50%" valign="top">
-  <h4><a href="https://drive.google.com/file/d/1TU1MBdvnDPN6GPI5mcM1OnkmWmjlNktN/view">Legal Query AI</a> &nbsp;<code>Legal Technology</code></h4>
+  <h4><a href="https://drive.google.com/file/d/1TU1MBdvnDPN6GPI5mcM1OnkmWmjlNktN/view">⚖️ Legal Query AI</a> &nbsp;<code>Legal Technology</code></h4>
   <p>Vector-similarity legal research engine matching inquiries to statutory provisions and judicial precedents with citations.</p>
   <p><code>Python</code> · <code>FastAPI</code> · <code>React</code> · <code>Vector DB</code> · <code>Tailwind CSS</code></p>
   <p><a href="https://drive.google.com/file/d/1TU1MBdvnDPN6GPI5mcM1OnkmWmjlNktN/view"><img src="https://img.shields.io/badge/Demo_Video-238636?style=flat&logo=googledrive&logoColor=white" height="20" alt="Demo Video"/></a></p>
@@ -261,13 +259,13 @@
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-  <h4><a href="https://github.com/Nithish-1622/Dead-Reckoning-app">IDR Navigation</a> &nbsp;<code>Sensor Dynamics</code></h4>
+  <h4><a href="https://github.com/Nithish-1622/Dead-Reckoning-app">🧭 IDR Navigation</a> &nbsp;<code>Sensor Dynamics</code></h4>
   <p>Offline navigation system for GPS-denied environments, fusing IMU streams via Error-State Kalman Filtering with zero GNSS dependency.</p>
   <p><code>C++</code> · <code>Python</code> · <code>React Native</code> · <code>Expo</code> · <code>PostGIS</code> · <code>Celery</code></p>
   <p><a href="https://github.com/Nithish-1622/Dead-Reckoning-app"><img src="https://img.shields.io/badge/Repository-238636?style=flat&logo=github&logoColor=white" height="20" alt="Repository"/></a></p>
 </td>
 <td width="50%" valign="top">
-  <h4><a href="https://drive.google.com/drive/folders/1Szz9FBKLRX4ddshaBoKaPStrCLomWMxG?usp=drive_link">Cooperative Collision Warning</a> &nbsp;<code>V2V Telemetry</code></h4>
+  <h4><a href="https://drive.google.com/drive/folders/1Szz9FBKLRX4ddshaBoKaPStrCLomWMxG?usp=drive_link">🚨 Cooperative Collision Warning</a> &nbsp;<code>V2V Telemetry</code></h4>
   <p>Real-time vehicle-to-vehicle collision mitigation engine using sensor fusion, Kalman trajectory prediction, and live map alerts.</p>
   <p><code>Android</code> · <code>Java</code> · <code>Kalman Filter</code> · <code>GPS + IMU</code> · <code>Live Maps</code></p>
   <p><a href="https://drive.google.com/drive/folders/1Szz9FBKLRX4ddshaBoKaPStrCLomWMxG?usp=drive_link"><img src="https://img.shields.io/badge/Project_Folder-238636?style=flat&logo=googledrive&logoColor=white" height="20" alt="Project Folder"/></a></p>
@@ -282,13 +280,13 @@
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-  <h4><a href="https://github.com/premnarayn13/Habit_Hacker">Habit Hacker</a> &nbsp;<code>Offline PWA</code></h4>
+  <h4><a href="https://github.com/premnarayn13/Habit_Hacker">✅ Habit Hacker</a> &nbsp;<code>Offline PWA</code></h4>
   <p>Privacy-focused productivity PWA with client-side IndexedDB persistence, service worker offline caching, and analytics.</p>
   <p><code>React</code> · <code>Spring Boot</code> · <code>PostgreSQL</code> · <code>PWA</code> · <code>IndexedDB</code></p>
   <p><a href="https://github.com/premnarayn13/Habit_Hacker"><img src="https://img.shields.io/badge/Repository-238636?style=flat&logo=github&logoColor=white" height="20" alt="Repository"/></a></p>
 </td>
 <td width="50%" valign="top">
-  <h4><a href="https://taskrise-v1.vercel.app/">TaskRise</a> &nbsp;<code>Collaborative Cloud</code></h4>
+  <h4><a href="https://taskrise-v1.vercel.app/">📋 TaskRise</a> &nbsp;<code>Collaborative Cloud</code></h4>
   <p>Task execution suite featuring real-time drag-and-drop Kanban boards, team workspaces, activity logging, and sprint metrics.</p>
   <p><code>MongoDB</code> · <code>Express.js</code> · <code>React</code> · <code>Node.js</code> · <code>Tailwind CSS</code></p>
   <p><a href="https://taskrise-v1.vercel.app/"><img src="https://img.shields.io/badge/Live_MVP-238636?style=flat&logo=vercel&logoColor=white" height="20" alt="Live MVP"/></a></p>
@@ -296,13 +294,13 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <h4><a href="https://github.com/premnarayn13/WomenSelfHelpGroup-based_Ecom-Platform">Women SHG Marketplace</a> &nbsp;<code>E-Commerce</code></h4>
+  <h4><a href="https://github.com/premnarayn13/WomenSelfHelpGroup-based_Ecom-Platform">🛍️ Women SHG Marketplace</a> &nbsp;<code>E-Commerce</code></h4>
   <p>Multi-tenant marketplace empowering rural self-help groups with digital storefronts, inventory tracking, and payment flows.</p>
   <p><code>MongoDB</code> · <code>Express.js</code> · <code>React</code> · <code>Node.js</code> · <code>Tailwind CSS</code></p>
   <p><a href="https://github.com/premnarayn13/WomenSelfHelpGroup-based_Ecom-Platform"><img src="https://img.shields.io/badge/Repository-238636?style=flat&logo=github&logoColor=white" height="20" alt="Repository"/></a></p>
 </td>
 <td width="50%" valign="top">
-  <h4>FarmVerse &nbsp;<code>Agritech & AI</code></h4>
+  <h4>🌱 FarmVerse &nbsp;<code>Agritech & AI</code></h4>
   <p>Agricultural decision platform providing automated seasonal budgeting, crop yield projections, and planning via LLM inference.</p>
   <p><code>Java (Spring Boot)</code> · <code>React</code> · <code>PostgreSQL</code> · <code>Hibernate</code> · <code>Groq LLM</code></p>
   <p><img src="https://img.shields.io/badge/Status-Completed-238636?style=flat" height="20" alt="Completed"/></p>
